@@ -9,12 +9,12 @@ by Fadli Aulawi Al Ghiffari
 
 <br>
 
-:warning: Important Links :warning:
+*Important Links*
 
 [Home](https://fadlia68.github.io/os211/ "Home Page") | [Log](https://fadlia68.github.io/os211/TXT/mylog.txt) | [Github](https://github.com/fadlia68/os211/)
 
 <br>
 
-:memo: Assignments :memo: (Weekly Update)
+*Assignments (Weekly Update)*
 
 * [W01](https://fadlia68.github.io/os211/W01/)
