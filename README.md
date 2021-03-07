@@ -11,7 +11,7 @@ by Fadli Aulawi Al Ghiffari
 
 *Important Links*
 
-[Home](https://fadlia68.github.io/os211/ "Home Page") | [Log](https://fadlia68.github.io/os211/TXT/mylog.txt) | [Github](https://github.com/fadlia68/os211/)
+[Home](https://fadlia68.github.io/os211/ "Home Page") | [Log](https://fadlia68.github.io/os211/TXT/mylog.txt) | [Rank](https://fadlia68.github.io/os211/TXT/myrank.txt) | [Github](https://github.com/fadlia68/os211/)
 
 <br>
 
