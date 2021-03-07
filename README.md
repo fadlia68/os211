@@ -1,4 +1,4 @@
-# oscoba
+# os211
 
 ### **Operating Systems 2021-1 (Semester Genap 2020/2021)**
 
@@ -11,11 +11,10 @@ by Fadli Aulawi Al Ghiffari
 
 :warning: Important Links :warning:
 
-[Home](https://fadlia68.github.io/oscoba/ "Home Page") | [Log](https://fadlia68.github.io/oscoba/TXT/mylog.txt) | [Github](https://github.com/fadlia68/oscoba/)
-
+[Home](https://fadlia68.github.io/os211/ "Home Page") | [Log](https://fadlia68.github.io/os211/TXT/mylog.txt) | [Github](https://github.com/fadlia68/os211/)
 
 <br>
 
 :memo: Assignments :memo: (Weekly Update)
 
-* [W01](https://fadlia68.github.io/oscoba/W01/)
+* [W01](https://fadlia68.github.io/os211/W01/)
