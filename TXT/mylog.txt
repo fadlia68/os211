@@ -17,3 +17,8 @@ ZCZC W01 20 L08 Try to install debian with desktop environment
 ZCZC W01 25 L05 GSGS about weekly quiz
 ZCZC W01 25 L13 Learning sed, awk, and vi editor
 ZCZC W01 45 L17 Create 10 Top List with markdown language
+ZCZC W02 245 L02 Zoom Class (Monday & Tuesday)
+ZCZC W02 60 L05 GSGS for weekly top 10
+ZCZC W02 30 L12 Trying Demo2
+ZCZC W02 30 L06 Reading my neighbors' top 10 page
+ZCZC W02 45 L13 Generate GnuPG Key Pair

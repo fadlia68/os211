@@ -18,3 +18,8 @@ by Fadli Aulawi Al Ghiffari
 *Assignments (Weekly Update)*
 
 * [W01](https://fadlia68.github.io/os211/W01/)
+* [W02](https://fadlia68.github.io/os211/W02/)
+
+<br>
+
+***Qapla, Jolan Tru!***
