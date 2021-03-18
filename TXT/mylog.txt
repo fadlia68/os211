@@ -1,24 +1,31 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode : https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 L03 Make Github Repo
-ZCZC W00 20 L05 GSGS about creating Github Page
-ZCZC W00 10 L04 Create Github Page
-ZCZC W00 20 L01 Reading SCELE forum
-ZCZC W00 85 L02 Zoom Class
-ZCZC W00 30 L06 Reading Slide0
-ZCZC W00 15 L22 Watching "Classic Operating Systems You Can Run in Your Web Browser"
-ZCZC W00 10 L05 GSGS about weekly quiz
+ZCZC W00 010 L03 Make Github Repo
+ZCZC W00 020 L05 GSGS about creating Github Page
+ZCZC W00 010 L04 Create Github Page
+ZCZC W00 020 L01 Reading SCELE forum
+ZCZC W00 085 L02 Zoom Class
+ZCZC W00 030 L06 Reading Slide0
+ZCZC W00 015 L22 Watching "Classic Operating Systems You Can Run in Your Web Browser"
+ZCZC W00 010 L05 GSGS about weekly quiz
 ZCZC W01 150 L02 Monday and Tuesday class
-ZCZC W01 60 L22 Watching some tutorials about debian, vi, and ssh
+ZCZC W01 060 L22 Watching some tutorials about debian, vi, and ssh
 ZCZC W01 150 L21 Install debian guests, success in 5th try
-ZCZC W01 60 L23 Reading some discussions with asdos
-ZCZC W01 20 L08 Try to install debian with desktop environment
-ZCZC W01 25 L05 GSGS about weekly quiz
-ZCZC W01 25 L13 Learning sed, awk, and vi editor
-ZCZC W01 45 L17 Create 10 Top List with markdown language
+ZCZC W01 060 L23 Reading some discussions with asdos
+ZCZC W01 020 L08 Try to install debian with desktop environment
+ZCZC W01 025 L05 GSGS about weekly quiz
+ZCZC W01 025 L13 Learning sed, awk, and vi editor
+ZCZC W01 045 L17 Create 10 Top List with markdown language
 ZCZC W02 245 L02 Zoom Class (Monday & Tuesday)
-ZCZC W02 60 L05 GSGS for weekly top 10
-ZCZC W02 30 L12 Trying Demo2
-ZCZC W02 30 L06 Reading my neighbors' top 10 page
-ZCZC W02 45 L13 Generate GnuPG Key Pair
+ZCZC W02 060 L05 GSGS for week2's top 10
+ZCZC W02 030 L12 Trying Demo2
+ZCZC W02 030 L06 Reading my neighbors' top 10 page
+ZCZC W02 045 L13 Generate GnuPG Key Pair
+ZCZC W03 090 L06 Reading OSC-10 chapter 13-14-15
+ZCZC W03 060 L05 GSGS for week3's top 10
+ZCZC W03 260 L02 Zoom Class (Wednesday & Thursday)
+ZCZC W03 030 L06 Reading my neighbors' top 10 page
+ZCZC W03 030 L12 Trying Demo3
+ZCZC W03 090 L17 Generated W03 tarballed file
+ZCZC W03 015 L05 GSGS about weekly quiz and popquiz 
