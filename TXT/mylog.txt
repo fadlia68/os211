@@ -37,3 +37,11 @@ ZCZC W04 030 L06 Reading OSC-10 chapter 09
 ZCZC W04 030 L12 Trying Demo4
 ZCZC W04 090 L16 Generate Week04-TLPI.txt and tarballed week04 file
 ZCZC W04 030 L22 Watching video about endianness, pointers, and address in OS
+ZCZC W05 060 L05 GSGS about weekly quiz and popquiz
+ZCZC W05 170 L02 Zoom Class (Wednesday & Thursday)
+ZCZC W05 060 L05 GSGS for week5's Top 10
+ZCZC W05 030 L06 Reading my neighbors' top 10 page
+ZCZC W05 030 L06 Reading OSC-10 chapter 10
+ZCZC W05 090 L16 Generate WEEK05-DEMO05.txt and tarballed week05 file
+ZCZC W05 030 L22 Watching video about virtual memory and LRU implementation
+ZCZC W05 030 L08 Trying to learn TOP process
