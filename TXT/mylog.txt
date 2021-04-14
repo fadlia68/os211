@@ -45,3 +45,11 @@ ZCZC W05 030 L06 Reading OSC-10 chapter 10
 ZCZC W05 090 L16 Generate WEEK05-DEMO05.txt and tarballed week05 file
 ZCZC W05 030 L22 Watching video about virtual memory and LRU implementation
 ZCZC W05 030 L08 Trying to learn TOP process
+ZCZC W06 045 L05 GSGS about weekly quiz and popquiz
+ZCZC W06 175 L02 Zoom Class (Wednesday & Thursday)
+ZCZC W06 060 L05 GSGS for week6's Top 10
+ZCZC W06 030 L06 Reading my neighbors' top 10 page
+ZCZC W06 090 L06 Reading OSC-10 chapter 03 and 04
+ZCZC W06 090 L14 Generate WEEK06-FORK.txt and tarballed week06 file
+ZCZC W06 023 L22 Watching video about context switching and fork system
+ZCZC W06 030 L12 Trying Demo6
