@@ -53,3 +53,10 @@ ZCZC W06 090 L06 Reading OSC-10 chapter 03 and 04
 ZCZC W06 090 L14 Generate WEEK06-FORK.txt and tarballed week06 file
 ZCZC W06 023 L22 Watching video about context switching and fork system
 ZCZC W06 030 L12 Trying Demo6
+ZCZC W07 190 L02 Zoom Class (Monday & Tuesday)
+ZCZC W07 060 L05 GSGS for week7's Top 10
+ZCZC W07 030 L06 Reading my neighbors' top 10 page
+ZCZC W07 045 L06 Reading OSC-10 chapter 06, 07, 08
+ZCZC W07 036 L22 Watching video about synchronization and its process
+ZCZC W07 090 L12 Trying Demo6, Demo7, Demo8
+ZCZC W07 120 L14 Generate WEEK07-REPORT*.txt (0/1/2) and tarballed week07 file

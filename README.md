@@ -23,6 +23,7 @@ by Fadli Aulawi Al Ghiffari
 * [W04](https://fadlia68.github.io/os211/W04/)
 * [W05](https://fadlia68.github.io/os211/W05/)
 * [W06](https://fadlia68.github.io/os211/W06/)
+* [W07](https://fadlia68.github.io/os211/W07/)
 
 <br>
 
