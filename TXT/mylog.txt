@@ -60,3 +60,11 @@ ZCZC W07 045 L06 Reading OSC-10 chapter 06, 07, 08
 ZCZC W07 036 L22 Watching video about synchronization and its process
 ZCZC W07 090 L12 Trying Demo6, Demo7, Demo8
 ZCZC W07 120 L14 Generate WEEK07-REPORT*.txt (0/1/2) and tarballed week07 file
+ZCZC W08 060 L05 GSGS about weekly quiz and popquiz
+ZCZC W08 120 L02 Zoom Class Monday & Tuesday)
+ZCZC W08 100 L05 GSGS for week8's Top 10
+ZCZC W08 030 L06 Reading my neighbors' top 10 page
+ZCZC W08 033 L22 Watching video about policies and burst in OS
+ZCZC W08 158 L06 Reading OSC-10 chapter 05
+ZCZC W08 100 L13 Building LFS Chapter 1-4
+ZCZC W08 015 L14 Generate WEEK08-REPORT.txt and tarballed week08 file

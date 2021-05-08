@@ -24,7 +24,11 @@ by Fadli Aulawi Al Ghiffari
 * [W05](https://fadlia68.github.io/os211/W05/)
 * [W06](https://fadlia68.github.io/os211/W06/)
 * [W07](https://fadlia68.github.io/os211/W07/)
+* [W08](https://fadlia68.github.io/os211/W08/)
+* [W09](https://fadlia68.github.io/os211/W09/)
+* [W10](https://fadlia68.github.io/os211/W10/)
 
 <br>
 
 ***Qapla, Jolan Tru!***
+
